@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @muhdakmaru
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning building a full game system
-- 💞️ I’m looking to collaborate on working with very intelligent and dedicated person to develop a game
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Artificial Intelligence
+- 🌱 I’m currently learning building a full stack system / IoT system
+  
 Do email me if you have any enquiries..
 
 <!---
