@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhdakmaru
 - 👀 I’m interested in Web Development and Artificial Intelligence
-- 🌱 I’m currently learning building a full stack system / IoT system
+- 🌱 I’m currently a Full Stack Software Engineer at Memo Agility Sdn Bhd
   
 Do email me if you have any enquiries..
 
